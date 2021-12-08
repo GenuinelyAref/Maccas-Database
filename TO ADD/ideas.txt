@@ -1,0 +1,6 @@
+* add entry into a separate database (to avoid spam/misleading entries)
+* change favicon, website icon and add references on main page
+* "sort results by" option
+* colour palette (themed website)
+* gallery view of results
+* results across multiple pages
